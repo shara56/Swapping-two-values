@@ -22,7 +22,8 @@ End the program
 swapping two variables
 developed by: Sharangini T.K
 register number:22003363
-n1,n2=int(input()),int(input())
+n1=int(input())
+n2=int(input())
 temp=n2
 n2=n1
 n1=temp
